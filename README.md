@@ -1,0 +1,2 @@
+# MergeIntervalZip
+Merging Zip series
